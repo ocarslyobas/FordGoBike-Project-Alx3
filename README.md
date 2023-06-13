@@ -1,0 +1,2 @@
+# FordGoBike-Project-Alx3
+This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. It covers the detais of 183412 rides observed in 16 different columns. These details include the duration of rides in seconds, the statr and end time of rides,the stsrt and end station names, the geographical positions of the start and end stations, the year of birth of riders, the sex of the riders, and the user type of the riders.
